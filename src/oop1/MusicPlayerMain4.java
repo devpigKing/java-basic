@@ -18,5 +18,6 @@ public class MusicPlayerMain4 {
         player.showStatus();
         //음악 플레이어 끄기
         player.off();
+
     }
 }
